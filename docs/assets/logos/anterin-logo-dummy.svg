@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <defs>
+    <linearGradient id="anterin-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA580C" />
+      <stop offset="100%" stop-color="#C2410C" />
+    </linearGradient>
+  </defs>
+  <!-- Icon Mark: Speed Delivery Box & Forward Arrow -->
+  <g transform="translate(15, 12)">
+    <rect x="0" y="0" width="76" height="76" rx="20" fill="url(#anterin-grad)" />
+    <!-- Isometric Delivery Box -->
+    <path d="M38 18 L60 30 L38 42 L16 30 Z" fill="#FED7AA" />
+    <path d="M16 30 L38 42 L38 64 L16 52 Z" fill="#FDBA74" />
+    <path d="M60 30 L38 42 L38 64 L60 52 Z" fill="#FB923C" />
+    <!-- Fast Motion Wings / Arrows -->
+    <path d="M22 40 L38 49 L54 40" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M28 50 L38 56 L48 50" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <!-- Wordmark -->
+  <text x="110" y="60" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="900" fill="#0F172A" letter-spacing="-1">
+    Anter<tspan fill="#EA580C">In</tspan>
+  </text>
+  <!-- Tagline / Subtitle -->
+  <text x="112" y="76" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#64748B" letter-spacing="2">
+    EXPRESS LOGISTICS
+  </text>
+</svg>

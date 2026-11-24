@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <defs>
+    <linearGradient id="beliin-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+  </defs>
+  <!-- Icon Mark: Modern B with Bag handle -->
+  <g transform="translate(15, 12)">
+    <rect x="0" y="0" width="76" height="76" rx="20" fill="url(#beliin-grad)" />
+    <!-- Shopping Bag Handle -->
+    <path d="M26 30 C26 22, 50 22, 50 30" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+    <!-- Modern 'B' letterform inside bag -->
+    <path d="M25 28 H46 C52 28, 56 32, 56 37 C56 41, 53 44, 48 45 C54 46, 58 50, 58 56 C58 62, 53 66, 45 66 H25 Z" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M25 46 H47" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+    <!-- Dynamic Cart Spark -->
+    <circle cx="58" cy="22" r="5" fill="#38BDF8" />
+  </g>
+  <!-- Wordmark -->
+  <text x="110" y="60" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="900" fill="#0F172A" letter-spacing="-1">
+    Beli<tspan fill="#2563EB">In</tspan>
+  </text>
+  <!-- Tagline / Subtitle -->
+  <text x="112" y="76" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#64748B" letter-spacing="2">
+    MARKETPLACE PLATFORM
+  </text>
+</svg>
